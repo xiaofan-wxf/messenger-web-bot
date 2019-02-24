@@ -12,7 +12,7 @@ import isEmpty from 'lodash/isEmpty';
 // ===== MODULES ===============================================================
 import request from 'request';
 
-const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
+const PAGE_ACCESS_TOKEN = 'EAALYLAAzlsoBADKofZB4KouGGPcGVo8Se4iyLz5U9lhZBHDgp3TwBeHd3Rrnyp37z4UGQLX9I4zIjkajoMYlXCQOMKdPkBOlb0snSP8BMZCG5AP8mJti0Jed6BXR5E63P77JJ2B1xUybYvEb0jvqOYBacwH9OF2ZADpGv87ZADQZDZD';//process.env.PAGE_ACCESS_TOKEN;
 
 /**
  * Send messages in order to the Facebook graph API.
